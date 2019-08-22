@@ -1,10 +1,3 @@
-// Goal: Depoy the chat application
-// 1. Setup Cit and commit files
-//  - Ignore node_modules folder
-// 2. Setup a Github responsitory and push code up
-// 3. Setup a Heroku app and push code up
-// 4. Opend the live app and test your work
-
 
 const socket = io()
 
